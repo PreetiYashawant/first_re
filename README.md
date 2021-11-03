@@ -1,1 +1,5 @@
-# first_re
+ls -l
+ls -lt
+ls -lS
+ls -lrS
+ls -lrt
